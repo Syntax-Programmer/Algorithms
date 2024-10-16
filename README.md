@@ -1,9 +1,6 @@
 # Algorithms
 This has too many algorithms compiled together.
 
-This is a compilation of some 250 algorithms.
---------------------------------------------------------------------------------------
-
 I have implemented top 250 algorithms that chatGPT gave me.
 
 This is supposed to be a al in one guide for people looking for implementation of theses algorithms.<br>
